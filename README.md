@@ -1,5 +1,5 @@
 # MVVM_MarvelAPI_Combine
-1 No Storyboard: View develop 100% in code,
+1 No Storyboard: View develop 100% in code 
 2 This app is using MVVM Architecture
 3 List of superheroes limited to 20 items per page
 4 It should be possible to filter characters by name
