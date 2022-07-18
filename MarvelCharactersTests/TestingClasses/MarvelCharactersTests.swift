@@ -2,7 +2,7 @@
 //  MarvelCharactersTests.swift
 //  MarvelCharactersTests
 //
-//  Created by Apple on 02/07/22.
+//  Created by Apple on 15/07/22.
 //
 
 import XCTest
@@ -28,9 +28,10 @@ class MarvelCharactersTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        self.measure {
+        measure {
             // Put the code you want to measure the time of here.
         }
     }
+    
 
 }
